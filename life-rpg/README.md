@@ -9,7 +9,7 @@
 
 ## 🎮 Live Demo
 
-🔗 **[https://life-rpg.vercel.app](https://life-rpg.vercel.app)**
+🔗 **[Life RPG deployment](https://life-fuczen3ll-secure-vision-cyber-defense-cctv-soc-advanced.vercel.app)**
 
 ## 📹 Demo Video
 
