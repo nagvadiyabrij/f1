@@ -13,7 +13,7 @@
 
 ## 📹 Demo Video
 
-🎥 **[Watch the walkthrough](./demo.mp4)** — Signup, quests, leveling up, data persistence proof
+🎥 **[Watch the original walkthrough](https://drive.google.com/file/d/1JKvTp5mtvStDw-2W6-Etu9sBFFimz5XZ/view?usp=drive_link)** — Signup, quests, leveling up, data persistence proof
 
 ---
 
