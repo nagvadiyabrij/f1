@@ -13,7 +13,7 @@
 
 ## 📹 Demo Video
 
-🎥 **[Watch the walkthrough](./demo.mp4)** — Signup, quests, leveling up, data persistence proof
+🎥 **[Watch the walkthrough](./public/demo.webm)** — Signup, quests, leveling up, data persistence proof
 
 ---
 
@@ -79,6 +79,13 @@ Fill in your Firebase keys from step 3.
 npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000)
+
+### 6. Generate the demo video
+With the app running locally, open another terminal and run:
+```bash
+npm run video
+```
+The generated walkthrough is saved to `public/demo.webm`.
 
 ---
 

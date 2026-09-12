@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "video": "node scripts/create-demo-video.mjs"
   },
   "dependencies": {
     "firebase": "^12.19.0",
