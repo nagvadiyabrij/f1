@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+life-rpg/node_modules/
+life-rpg/.next/
+.env
+.env.local
+.env.*.local
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+dist/
+build/
