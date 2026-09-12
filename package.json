@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix life-rpg run dev",
+    "build": "npm --prefix life-rpg run build",
+    "start": "npm --prefix life-rpg run start",
+    "lint": "npm --prefix life-rpg run lint"
+  }
+}

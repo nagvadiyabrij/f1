@@ -12,3 +12,4 @@ Thumbs.db
 *.log
 dist/
 build/
+.life-rpg-git-backup/
