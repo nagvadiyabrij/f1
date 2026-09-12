@@ -27,3 +27,5 @@ build/
 # Firebase
 .firebase/
 firebase-debug.log
+
+.vercel
